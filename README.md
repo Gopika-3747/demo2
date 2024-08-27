@@ -5,3 +5,4 @@ text goes here
 doing tutorial
 
 1. open index.html in your new branch
+2. learning html
